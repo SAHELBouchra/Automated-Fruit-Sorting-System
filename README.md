@@ -2,6 +2,7 @@
 
 This project presents an **automated fruit sorting system** that combines **embedded systems**, **robotic control**, and **computer vision** to classify and sort bananas based on ripeness and type. The system integrates image processing techniques, machine learning, and shape analysis to deliver a real-time, efficient, and scalable solution for agricultural automation.
 
+
 ## Project Overview
 
 The goal is to design and implement a **fully autonomous fruit sorting system** capable of:
@@ -49,15 +50,4 @@ The goal is to design and implement a **fully autonomous fruit sorting system** 
 
 - Real-time processing optimized for embedded hardware
 - Smooth coordination between vision system and robotic actuation
-
-## System Output
-
-_Include sample images or screenshots of the classification results and sorting process._
-
-## Future Improvements
-
-- Expand classification to other fruits (apples, oranges, etc.)
-- Add ripeness levels beyond just three categories
-- Improve model optimization for better Raspberry Pi performance
-- Add a web dashboard or mobile interface for monitoring
 
