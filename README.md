@@ -2,6 +2,9 @@
 
 This project presents an **automated fruit sorting system** that combines **embedded systems**, **robotic control**, and **computer vision** to classify and sort bananas based on ripeness and type. The system integrates image processing techniques, machine learning, and shape analysis to deliver a real-time, efficient, and scalable solution for agricultural automation.
 
+<img width="336" height="448" alt="image" src="https://github.com/user-attachments/assets/27d99648-6ffd-4810-a218-a9282188ab62" />
+
+
 
 ## Project Overview
 
